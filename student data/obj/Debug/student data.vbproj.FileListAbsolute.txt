@@ -1,0 +1,12 @@
+c:\users\lalit patel\documents\visual studio 2012\Projects\student data\student data\bin\Debug\student data.exe.config
+C:\Users\lalit patel\Documents\Visual Studio 2012\Projects\student data\student data\bin\Debug\student data.exe
+C:\Users\lalit patel\Documents\Visual Studio 2012\Projects\student data\student data\bin\Debug\student data.pdb
+C:\Users\lalit patel\Documents\Visual Studio 2012\Projects\student data\student data\bin\Debug\student data.xml
+C:\Users\lalit patel\Documents\Visual Studio 2012\Projects\student data\student data\obj\Debug\student_data.Resources.resources
+C:\Users\lalit patel\Documents\Visual Studio 2012\Projects\student data\student data\obj\Debug\student_data.student.resources
+C:\Users\lalit patel\Documents\Visual Studio 2012\Projects\student data\student data\obj\Debug\student data.vbproj.GenerateResource.Cache
+C:\Users\lalit patel\Documents\Visual Studio 2012\Projects\student data\student data\obj\Debug\student data.exe
+C:\Users\lalit patel\Documents\Visual Studio 2012\Projects\student data\student data\obj\Debug\student data.xml
+C:\Users\lalit patel\Documents\Visual Studio 2012\Projects\student data\student data\obj\Debug\student data.pdb
+C:\Users\lalit patel\Documents\Visual Studio 2012\Projects\student data\student data\bin\Debug\student.sdf
+C:\Users\lalit patel\Documents\Visual Studio 2012\Projects\student data\student data\obj\Debug\student_data.search.resources
